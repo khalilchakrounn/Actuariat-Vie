@@ -2,8 +2,8 @@
 ## Sujet: Influence des taux de mortalité sur un produit de rente viagère et de capital décès.
 
 ## Description des données:
-Extrait de table de mortalité cohorte d’assurés français nés en en 1955.
-
+Les données utilisées dans cette étude proviennent de la Base de données sur la mortalité humaine HMD. Cette base présente des hommes francais
+assurés de 1816 à 2018 dont l’age varie entre 0 et 110. Nous avons choisi de travailler sur une cohorte d’assurés nés en 1955.
 ## Outils:
 * R : 4.*
 ## Packages utilisés :
