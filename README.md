@@ -10,4 +10,6 @@ Extrait de table de mortalité cohorte d’assurés français nés en en 1955.
 * StMoMo
 * Demography
 * ReliaR
-* 
+* gnm
+* forecast 
+* lifecontingencies
